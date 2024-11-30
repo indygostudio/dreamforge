@@ -6,8 +6,8 @@ export const Features = () => {
           <h2 className="text-4xl font-bold mb-8">Create your own AI Artists with Persona's</h2>
           <div className="aspect-video relative rounded-xl overflow-hidden mb-12">
             <img 
-              src="/lovable-uploads/persona-banner.jpg" 
-              alt="Persona Creation"
+              src="/lovable-uploads/1451d802-c09e-495f-92a8-6c73d6338a8f.png" 
+              alt="Persona Creation Interface"
               className="w-full h-full object-cover"
             />
           </div>
