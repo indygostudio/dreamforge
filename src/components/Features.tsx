@@ -3,11 +3,11 @@ export const Features = () => {
     <div className="py-20 bg-dreamaker-bg">
       <div className="container mx-auto px-4">
         <section className="mb-20">
-          <div className="aspect-video relative rounded-xl overflow-hidden mb-12">
+          <div className="relative rounded-xl overflow-hidden mb-12">
             <img 
               src="/lovable-uploads/1451d802-c09e-495f-92a8-6c73d6338a8f.png" 
               alt="Persona Creation Interface"
-              className="w-full h-full object-cover"
+              className="w-full object-contain"
             />
           </div>
           
@@ -29,11 +29,11 @@ export const Features = () => {
         </section>
 
         <section>
-          <div className="aspect-video relative rounded-xl overflow-hidden">
+          <div className="relative rounded-xl overflow-hidden">
             <img 
               src="/lovable-uploads/e6070cd9-7a10-4470-b557-b1eba61123e7.png" 
               alt="AI Record Label and Marketplace"
-              className="w-full h-full object-cover"
+              className="w-full object-contain"
             />
           </div>
         </section>
