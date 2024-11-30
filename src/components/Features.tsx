@@ -28,11 +28,19 @@ export const Features = () => {
           </div>
         </section>
 
-        <section>
-          <div className="relative rounded-xl overflow-hidden">
+        <section className="mb-20">
+          <div className="relative rounded-xl overflow-hidden mb-20">
             <img 
               src="/lovable-uploads/e6070cd9-7a10-4470-b557-b1eba61123e7.png" 
               alt="AI Record Label and Marketplace"
+              className="w-full object-contain"
+            />
+          </div>
+
+          <div className="relative rounded-xl overflow-hidden">
+            <img 
+              src="/lovable-uploads/952f59dc-0e30-4da9-b398-625b2355b543.png" 
+              alt="Frequently Asked Questions"
               className="w-full object-contain"
             />
           </div>
