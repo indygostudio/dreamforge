@@ -18,11 +18,6 @@ export const Hero = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-dreamaker-bg z-0" />
       
       <div className="relative z-10">
-        <h1 className="text-6xl md:text-8xl font-bold mb-6">
-          DREAMAKER
-          <span className="gradient-text block mt-2">AI</span>
-        </h1>
-        
         <div className="max-w-4xl mx-auto mb-8">
           <h2 className="text-2xl md:text-3xl mb-4">AI RECORD LABEL</h2>
           <p className="text-lg md:text-xl text-gray-300">
