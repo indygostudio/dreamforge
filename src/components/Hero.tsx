@@ -18,13 +18,6 @@ export const Hero = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-dreamaker-bg z-0" />
       
       <div className="relative z-10 mb-20">
-        <div className="max-w-4xl mx-auto mb-8">
-          <h2 className="text-2xl md:text-3xl mb-4">AI RECORD LABEL</h2>
-          <p className="text-lg md:text-xl text-gray-300">
-            Create your own Virtual Music Stars. Unleash your creativity and bring your musical visions to life with our cutting-edge AI-powered platform. Easily build unique virtual artist personas, complete with custom voice clones, stunning visuals, and original music - all without needing a band or recording studio.
-          </p>
-        </div>
-
         <Button 
           className="bg-red-600 hover:bg-red-700 text-white px-8 py-6 text-lg rounded-full transition-all"
           onClick={() => window.location.href = "/signup"}
