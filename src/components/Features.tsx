@@ -37,10 +37,18 @@ export const Features = () => {
             />
           </div>
 
-          <div className="relative rounded-xl overflow-hidden">
+          <div className="relative rounded-xl overflow-hidden mb-20">
             <img 
               src="/lovable-uploads/952f59dc-0e30-4da9-b398-625b2355b543.png" 
               alt="Frequently Asked Questions"
+              className="w-full object-contain"
+            />
+          </div>
+
+          <div className="relative rounded-xl overflow-hidden">
+            <img 
+              src="/lovable-uploads/a0632996-7538-41a3-9f83-80c4f27be398.png" 
+              alt="Pricing Plans"
               className="w-full object-contain"
             />
           </div>
